@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    color: beige;
+    text-align: center;
+}
+#title {
+    font-size: 72px;
+    font-style: italic;
+    font-family: 'Lucida Sans', sans-serif;
+    color: aqua;
+}
+#summary {
+    font-size: 20px;
+    font-style: italic;
+    color: beige;
+}
+#playerChoiceDisplay, #botChoiceDisplay {
+    font-size: large;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(255, 0, 0);
+}
+#result {
+    font-size: 24px;
+    font-style: oblique;
+    color: aqua;
+}
+.credits {
+    font-size: 18px;
+    font-style: unset;
+    color: white;
+    background-color: dimgray;
+}
